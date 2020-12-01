@@ -10,9 +10,9 @@
 
 ## testing formatting
 
-**testing bold font**
-*testing italic font*
-~~testing strikethrough~~
+**testing bold font**  
+*testing italic font*  
+~~testing strikethrough~~  
 
 1. first
 2. second
