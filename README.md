@@ -28,8 +28,6 @@ ___
 |Vegetable      |Kale           |
 |Fruit          |Lemon          |
 
-<br>
-<br>
 
 ### code snippet
 ___
