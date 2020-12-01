@@ -18,6 +18,14 @@
 2. second
 3. third
 
+### table  
+|Type           |Name           |
+|:-------------:|:-------------:|
+|Fruit          |Apple          |
+|Vegetable      |Kale           |
+|Fruit          |Lemon          |
+
+
 ### code snippet
 `console.log('hello world');`
 
