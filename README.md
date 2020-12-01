@@ -22,8 +22,8 @@ ___
 3. third
 <br>
 <br>
+
 ## table  
-___
 |Type           |Name           |
 |:-------------:|:-------------:|
 |Fruit          |Apple          |
